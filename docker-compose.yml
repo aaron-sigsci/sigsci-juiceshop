@@ -2,7 +2,7 @@ version: '3'
 services:
   sigsci-agent-sidecar:
     build: 
-     context: ../sigsci-sidecar-alpine
+     context: ./sigsci-sidecar-alpine
      dockerfile: Dockerfile
     environment:
      - SIGSCI_ACCESSKEYID

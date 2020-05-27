@@ -1,3 +1,6 @@
 [submodule "juice-shop"]
 	path = juice-shop
 	url = https://github.com/bkimminich/juice-shop.git
+[submodule "sigsci-sidecar-alpine"]
+	path = sigsci-sidecar-alpine
+	url = https://github.com/aaron-sigsci/sigsci-sidecar-alpine.git
